@@ -82,8 +82,6 @@ npm run dev
 Then visit `http://localhost:3000` in your browser.
 
 
-## 📚 Installation & Dependencies
-
 
 ## 📑 Research Reference
 
@@ -92,7 +90,7 @@ This project implements concepts from:
 Lucas, Evan, et al. (2025)  
 "Underwater Image Enhancement and Object Detection: Are Poor Object Detection Results On Enhanced Images Due to Missing Human Labels?"  
 Presented at WACV 2025  
-[IResearch Link](https://openaccess.thecvf.com/content/WACV2025W/MaCVi/papers/Lucas_Underwater_Image_Enhancement_and_Object_Detection_Are_Poor_Object_Detection_WACVW_2025_paper.pdf)
+[Research Link](https://openaccess.thecvf.com/content/WACV2025W/MaCVi/papers/Lucas_Underwater_Image_Enhancement_and_Object_Detection_Are_Poor_Object_Detection_WACVW_2025_paper.pdf)
 
 ## 📌 Future Improvements
 
